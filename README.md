@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-ScentSational is a full-stack luxury fragrance and wax candle e-commerce website developed using the MERN Stack. The platform allows users to browse products, create an account, log in securely, manage their shopping cart, and place orders. The project follows a client-server architecture with a React frontend and an Express.js backend connected to MongoDB Atlas.
+Scentsational Flickers is a full-stack luxury fragrance and wax candle e-commerce website developed using the MERN Stack. The platform allows users to browse products, create an account, log in securely, manage their shopping cart, and place orders. The project follows a client-server architecture with a React frontend and an Express.js backend connected to MongoDB Atlas.
 
 ## Live Deployment
 
