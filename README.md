@@ -1,4 +1,4 @@
-# ScentSational – MERN E-Commerce Website
+# Scentsational Flickers – MERN E-Commerce Website
 
 ## Project Overview
 
