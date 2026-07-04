@@ -29,7 +29,7 @@ app.use(cors({
     origin: [
         "http://localhost:5174",
         "http://localhost:5173",
-        "https://mern-ecommerce-app-olive.vercel.app",
+        "https://magnificent-brioche-a0a986.netlify.app",
         "https://sf-mern.adork.net"
     ],
     methods: ["GET", "POST", "PUT", "DELETE"],
