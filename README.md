@@ -57,14 +57,6 @@ https://beautiful-liberation-production-452f.up.railway.app/api
 - Order Placement
 - Responsive User Interface
 
-### Admin Features
-
-- Add Products
-- Update Products
-- Delete Products
-- Manage Product Inventory
-
----
 
 ## Project Structure
 
